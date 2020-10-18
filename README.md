@@ -1,8 +1,8 @@
 # poetry-generator
 
-Train a model using tensorflow to write short poems.
+Train a model using TensorFlow to write short poems.
 
-Check out the medium post for a detained expaination: 
+Check out the medium post for a detailed expaination: 
 
 ## DATA:
 <hr/>
