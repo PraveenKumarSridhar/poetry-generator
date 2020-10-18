@@ -2,7 +2,7 @@
 
 Train a model using TensorFlow to write short poems.
 
-Check out the medium post for a detailed expaination: 
+Check out the medium post for a detailed expaination [here](https://medium.com/@prasri.pk/can-we-write-a-sonnet-like-its-the-middle-ages-f3c06ecb690).
 
 ## DATA:
 <hr/>
